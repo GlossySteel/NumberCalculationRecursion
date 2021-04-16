@@ -1,7 +1,6 @@
 
 //  Assignment: ASU CSE205 Spring 2021 #9
 //  Name: Joseph Kharzo
-//  StudentID: 1218555299
 //  Lecture: (TTH) 1:30-2:45
 //  Description: The Assignment 9 class reads a sequence of integers from input,
 //  and compute the maximum, counts numbers divisible by 3, sum of numbers larger than the last, and
